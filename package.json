@@ -1,0 +1,19 @@
+{
+  "name": "target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitAshdot/target-beshvil-auto.git"
+  },
+  "author": "Amit Ashdot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitAshdot/target-beshvil-auto/issues"
+  },
+  "homepage": "https://github.com/amitAshdot/target-beshvil-auto#readme"
+}
